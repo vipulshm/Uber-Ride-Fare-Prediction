@@ -10,3 +10,5 @@ A fare calculator helps a customer in identifying the fare valid for the trip. T
 You are provided with a dataset with features like fare amount, pickup and drop location, passenger count, and so on.
 
 **Dataset Link - https://drive.google.com/file/d/1Yp_1LWg4rtBj6ezbu6AqGRO8LpFUdYiD/view**
+%%html
+<a href="https://drive.google.com/file/d/1Yp_1LWg4rtBj6ezbu6AqGRO8LpFUdYiD/view">Dataset Link</a>
